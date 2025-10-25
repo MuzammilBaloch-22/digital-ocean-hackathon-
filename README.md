@@ -4,7 +4,7 @@ Welcome to The Royal Spoon Chatbot, a smart interactive assistant designed for r
 
 Demo
 
-Try the live demo here: The Royal Spoon
+Try the live demo here: https://theroyal-spoon.netlify.app/
 
 Features
 
